@@ -33,4 +33,5 @@ This application runs entirely in the browser and does not store AWS credentials
 ## For feature requirement: dev.vaibhavk@gmail.com
 
 ## Together let's make this world open source!
-<img width="1021" alt="R53Scanner" src="https://github.com/user-attachments/assets/677e4802-f929-4e97-bbeb-294b397a9494" />
+
+<img width="1021" alt="R53Scanner" src="https://github.com/user-attachments/assets/b0efcd7c-bbab-488e-9f61-c81830bdf273" />
